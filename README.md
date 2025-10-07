@@ -1,4 +1,4 @@
-"line_motion_press_final.py" and "arc_motion_press_final.py" are two scripts for robot arm control
+"line_motion_press_final.py" and "arc_motion_press_final.py" are two scripts for robot arm control.
 
 "image_process.ipynb" is the colab notebook for 24 fps video processing.
 
