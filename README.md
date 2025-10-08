@@ -1,12 +1,3 @@
-Scripts for robot arm motion control : **"line_motion_press_final.py"** and **"arc_motion_press_final.py"**
-
-Python notebook for 24 fps video processing : **"image_process.ipynb"**
-
-Demo video (The files are too big. You have to download the raw file if you want to check out the demo results.)  
-1. **"original vs. processed.mp4"** is the demo video comparing the unprocessed and processed video at the same time.
-2. **"Arc_motion.mp4"** and **"Line_motion.mp4"** are demo videos of arc and line motion of physical xArm Lite6.
-
-
 ## Overview
 
 This repository contains Python scripts and a Jupyter notebook for **xArm Lite 6** motion control and **video denoising**.
@@ -18,6 +9,6 @@ This repository contains Python scripts and a Jupyter notebook for **xArm Lite 6
 
 ### Demo Videos
 *(Note: The files are large. Please download the raw files to view the results.)*  
-1. **`original vs. processed.mp4`** – Side-by-side comparison of raw and denoised video.  
+1. **`original vs. processed.mp4`** – Side-by-side comparison of raw(left side) and denoised(right side) video.  
 2. **`Arc_motion.mp4`** – Demonstration of arc motion on the physical xArm Lite 6.  
 3. **`Line_motion.mp4`** – Demonstration of linear motion on the physical xArm Lite 6.  
