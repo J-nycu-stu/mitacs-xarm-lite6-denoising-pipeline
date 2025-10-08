@@ -1,4 +1,4 @@
-# Mitacs xArm Lite 6 Denoising Pipeline  
+# Mitacs xArm Lite 6 Motion Control & Denoising Pipeline  
 **Python-based robotic motion control and video denoising framework**
 
 ---
@@ -46,4 +46,4 @@ This part of the project develops a **reproducible OpenCV-based denoising workfl
 
 ### Demo Videos
 *(Note: Large files — please download the raw files to view them.)*  
-**`original vs. processed.mp4`** – Side-by-side comparison of unprocessed and denoised videos.  
+**`original vs. processed.mp4`** – Side-by-side comparison of unprocessed(left side) and denoised(right side) videos.  
