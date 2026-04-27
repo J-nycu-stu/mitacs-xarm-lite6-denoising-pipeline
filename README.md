@@ -12,7 +12,7 @@ This repository contains two related subprojects developed for the **xArm Lite 6
 
 ---
 
-## 1️⃣ Robotic Motion Control
+## 1 Robotic Motion Control
 
 This part of the project focuses on **precise actuation and motion control** of the xArm Lite 6 through programmable trajectories.
 
@@ -32,7 +32,7 @@ This part of the project focuses on **precise actuation and motion control** of 
 
 ---
 
-## 2️⃣ Video Denoising Pipeline
+## 2️ Video Denoising Pipeline
 
 This part of the project develops a **reproducible OpenCV-based denoising workflow** for videos recorded from robotic experiments.
 
